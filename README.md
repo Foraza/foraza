@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foraza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats" width="400" height="170" style="vertical-align: middle; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Foraza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats" width="400" height="170" style="vertical-align: middle; margin-right: 20px;" />
   <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog Hacker" width="170" height="170" style="vertical-align: middle; border-radius: 10px;" />
 </div>
 
@@ -48,5 +48,5 @@ Aqui estão as ferramentas que fazem parte do meu arsenal diário de desenvolvim
 ### 🐍 Olha a cobra!
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Foraza/foraza/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://cdn.jsdelivr.net/gh/Foraza/Foraza/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
