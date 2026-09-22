@@ -48,5 +48,5 @@ Aqui estão as ferramentas que fazem parte do meu arsenal diário de desenvolvim
 ### 🐍 Olha a cobra!
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Foraza/Foraza/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  ![Snake animation](https://github.com/Foraza/foraza/blob/output/github-contribution-grid-snake.svg)
 </div>
