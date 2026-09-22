@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foraza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats" width="400" height="170" style="vertical-align: middle; margin-right: 20px;" />
-  <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog Hacker" width="170" height="170" style="vertical-align: middle; border-radius: 10px;" />
+  <!-- <a href="https://github-stats-extended.vercel.app/api?username=Foraza">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=Foraza&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api?username=Foraza&theme=light_github" style="vertical-align: middle;" />
+    </picture>
+  </a> -->
+  <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" alt="Dog Hacker" width="450" height="450" style="vertical-align: middle; border-radius: 10px; margin-left: 50px;" />
 </div>
 
 ---
@@ -48,5 +56,5 @@ Aqui estão as ferramentas que fazem parte do meu arsenal diário de desenvolvim
 ### 🐍 Olha a cobra!
 
 <div align="center">
-  ![Snake animation](https://github.com/Foraza/foraza/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/foraza/foraza/output/github-contribution-grid-snake.svg" alt="Snake animation" style="display: block; margin: 0 auto; max-width: 100%;" />
 </div>
